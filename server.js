@@ -20,7 +20,7 @@ app.use(serverError)
 function homeFun (req, res){
 res.status(200).json({
 code: 200,
-message: 'Welcome to the Home page',
+message: 'Welcome to Home page!',
 time: req.stamper
 })
 
