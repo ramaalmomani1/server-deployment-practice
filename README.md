@@ -5,7 +5,7 @@
 
 **[Github actions](https://github.com/ramaalmomani1/server-deployment-practice/actions)**
 
-**[Pull request](hhttps://github.com/ramaalmomani1/server-deployment-practice/pulls/)**
+**[Pull request](https://github.com/ramaalmomani1/server-deployment-practice/pulls/)**
 
 ----
 
